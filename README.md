@@ -21,3 +21,15 @@
     <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DEV-AB-03&theme=radical" alt="pratikgarai" /></td>
    </tr>
 </table>
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=DEV-AB-03&rank=SSS,SS,S,AAA,AA,A,B,C,UNKNOWN&theme=dracula&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
+<!--   Top Languages Used -->
+### 👨‍💻 Top Languages Used:
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DEV-AB-03&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DEV-AB-03&theme=nord_dark)
+### 📈 GitHub Activity Graph:
+ ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DEV-AB-03&theme=github)
+ <br> 
+ <hr>
