@@ -13,7 +13,7 @@
 
 ### 📫 Contact Me
 - LinkedIN : https://www.linkedin.com/in/aniketbaidya1191b3/
-- CodeChef : https://www.codechef.com/users/ab2019
+- CodeChef : https://www.codechef.com/users/dev_ab_03
 <br>
 <table>
   <tr>
