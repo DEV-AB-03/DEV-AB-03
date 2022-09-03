@@ -12,7 +12,7 @@
 - DSA and Competitive Coding
 
 ### 📫 Contact Me
-- LinkedIN : https://www.linkedin.com/in/aniketbaidya1191b3/
+- LinkedIN : https://www.linkedin.com/in/aniketbaidya03/
 - CodeChef : https://www.codechef.com/users/dev_ab_03
 <br>
 <table>
