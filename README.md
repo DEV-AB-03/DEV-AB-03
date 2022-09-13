@@ -3,7 +3,7 @@
 <br><br>
 
 <p align="center">
-  <img alt="GIF" src="https://github.com/DEV-AB-03/DEV-AB-03/blob/main/code.gif" width="500px"/>
+  <img alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="500px"/>
 </p>
 
 ### 🌱 I’m currently learning
