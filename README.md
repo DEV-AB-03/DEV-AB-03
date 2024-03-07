@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aniket</h1>
-<h3 align="center">CSE Student, VIT Chennai</h3>
+<h3 align="center">SDE-1, @Bajaj Finserv</h3>
 <br><br>
 
 <p align="center">
@@ -7,13 +7,12 @@
 </p>
 
 ### 🌱 I’m currently learning
-- Web Development
-- Artificial Intelligence and Machine Learning
-- DSA and Competitive Coding
+- Software Development
+- System Design
+- Kubernetes and Kafka Streaming
 
 ### 📫 Contact Me
 - LinkedIN : https://www.linkedin.com/in/aniketbaidya03/
-- CodeChef : https://www.codechef.com/users/dev_ab_03
 <br>
 <table>
   <tr>
