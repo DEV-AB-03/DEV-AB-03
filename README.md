@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aniket</h1>
-<h3 align="center">SDE-1, @Bajaj Finserv</h3>
+<h3 align="center">Matster's Student CSNL, @University College Dublin</h3>
 <br><br>
 
 <p align="center">
